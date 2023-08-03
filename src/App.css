@@ -1,0 +1,14 @@
+body{
+    background-color: #4a4a4a;
+}
+
+.page{
+    margin: auto;
+    margin-top: 50px;
+
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: #dfdfdf;
+}
